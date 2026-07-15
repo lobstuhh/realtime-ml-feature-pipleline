@@ -1,0 +1,1 @@
+print("This is a test message from the producer script.")
